@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PingPong.Foster", "PingPong.Foster\PingPong.Foster.csproj", "{7BC29C20-59A0-4EEE-86F1-8F6C6AACCD47}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PingPong.FNA", "PingPong.FNA\PingPong.FNA.csproj", "{E99736CA-8010-467E-B126-BF6119BDC64E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FNA.Core", "FNA\FNA.Core.csproj", "{F3D76F1E-6506-49FD-9E18-B0998D07B57F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7BC29C20-59A0-4EEE-86F1-8F6C6AACCD47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7BC29C20-59A0-4EEE-86F1-8F6C6AACCD47}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7BC29C20-59A0-4EEE-86F1-8F6C6AACCD47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7BC29C20-59A0-4EEE-86F1-8F6C6AACCD47}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E99736CA-8010-467E-B126-BF6119BDC64E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E99736CA-8010-467E-B126-BF6119BDC64E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E99736CA-8010-467E-B126-BF6119BDC64E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E99736CA-8010-467E-B126-BF6119BDC64E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F3D76F1E-6506-49FD-9E18-B0998D07B57F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3D76F1E-6506-49FD-9E18-B0998D07B57F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3D76F1E-6506-49FD-9E18-B0998D07B57F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3D76F1E-6506-49FD-9E18-B0998D07B57F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
